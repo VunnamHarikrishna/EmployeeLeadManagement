@@ -1,0 +1,12 @@
+D:\C#\Practice\Assignments\KalingaManagementSystem\Entities\bin\Debug\Entities.dll
+D:\C#\Practice\Assignments\KalingaManagementSystem\Entities\bin\Debug\Entities.pdb
+D:\C#\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.dll
+D:\C#\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.pdb
+D:\C#\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\Hari\C#\Practice\Practice\Assignments\KalingaManagementSystem\Entities\bin\Debug\Entities.dll
+D:\Hari\C#\Practice\Practice\Assignments\KalingaManagementSystem\Entities\bin\Debug\Entities.pdb
+D:\Hari\C#\Practice\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\Hari\C#\Practice\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Hari\C#\Practice\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.dll
+D:\Hari\C#\Practice\Practice\Assignments\KalingaManagementSystem\Entities\obj\Debug\Entities.pdb
